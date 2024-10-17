@@ -37,7 +37,6 @@ This project aims to develop a robust system for accurately classifying 7 types 
 ![image](https://github.com/user-attachments/assets/e776f17f-38fb-4ad2-8fa0-6980f1ac6493)
 
 Detection Accuracy: 90%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
